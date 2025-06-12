@@ -14,5 +14,12 @@
     "date": "2024-06-12",
     "priority": 2,
     "link": "hhttps://discord.gg/8xx4QzceRA"
+  },
+  {
+    "id": "3",
+    "title": "🔥 Firebase Outage - June 12, 2025",
+    "content": "We are currently experiencing issues with Firebase. Logging in may fail, and the leaderboard might not load properly. We are monitoring the situation and will update you as soon as it’s resolved.",
+    "date": "2025-06-12",
+    "priority": 1
   }
 ]
