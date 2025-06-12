@@ -18,7 +18,7 @@
   {
     "id": "3",
     "title": "🔥 Firebase Outage - June 12, 2025",
-    "content": "We are currently experiencing issues with Firebase. Logging in may fail, and the leaderboard might not load properly. We are monitoring the situation and will update you as soon as it’s resolved.",
+    "content": "Earlier today we experienced issues with Firebase, which caused login failures and leaderboard problems. This has now been fully resolved as of 4:30 PM EST on 6/12/2025.",
     "date": "2025-06-12",
     "priority": 1
   }
