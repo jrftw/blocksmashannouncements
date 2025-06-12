@@ -3,8 +3,16 @@
     "id": "1",
     "title": "Welcome to Infinitum Block Smash!",
     "content": "Thank you for playing our game! We hope you enjoy it.",
-    "date": "2024-06-12",
+    "date": "2024-06-11",
     "priority": 1,
     "link": "https://infinitumlive.com"
+  },
+  {
+    "id": "2",
+    "title": "Found a Bug or Have a Feature Request?",
+    "content": "Please report any bugs, issues, or feature requests in our Discord or by emailing support@infinitumlive.com.",
+    "date": "2024-06-12",
+    "priority": 2,
+    "link": "https://discord.gg/infinitumlive"
   }
-] 
+]
